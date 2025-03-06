@@ -4,7 +4,7 @@ I first enrolled in October 2019 and took my final exam in January 2024. (4,5 ye
 Every year in Greece we have 3 exam periods (January,June,September).
 
 
-The table below depicts the Greek Grading system while illustrates approximately how the Grades are compared with ECTS, US and UK grades:
+The table below depicts the Greek Grading system while illustrating approximately how the Grades are compared with ECTS, US and UK grades:
 ![Greek_Grading_System](https://github.com/LukeTritsis13/My_Grades/blob/main/Greek_Grading_System.png)
 
 
