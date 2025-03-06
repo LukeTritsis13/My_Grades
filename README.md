@@ -13,7 +13,7 @@ The table below depicts the Greek Grading system while illustrating approximatel
 
 
 Dataset:
--Link: [Grades_Dataset](https://github.com/LukeTritsis13/My_Grades/blob/main/My_Grades.xlsx) 
+-Link: [Grades_Dataset](https://github.com/LukeTritsis13/My_Grades/blob/main/grades.csv) 
 
 -Created my own dataset that includes my final exam grades during my Bachelor studies.
 
