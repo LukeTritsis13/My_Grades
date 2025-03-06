@@ -1,6 +1,8 @@
 # My grades in each exam period during my BSc in Mathematics
 This is a simple dashboard that summarizes my performance in exams during my Bachelor studies in Mathematics ,of which I graduated with a GPA of 8.24.
+
 I first enrolled in October 2019 and took my final exam in January 2024. (4,5 years - 9 semesters)
+
 Every year in Greece we have 3 exam periods (January,June,September).
 
 
