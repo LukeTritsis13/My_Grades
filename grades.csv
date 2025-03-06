@@ -1,0 +1,37 @@
+Subject_id,Subject_name,Category,Exam_period,Grade
+12101,Infinite Calculus I,Mathematical Analysis,Jan-20,10
+12110,Foundation of Mathematics,Mathematical Analysis,Jan-20,7
+12121,Linear Algebra I,Algebra & Geometry,Jan-20,9
+12122,Geometry I,Algebra & Geometry,Jun-20,7
+12141,Computer Science I,Computational Mathematics,Jan-20,8
+12201,Infinite Calculus II,Mathematical Analysis,Jun-20,9
+12221,Linear Algebra II,Algebra & Geometry,Jun-20,8
+12241,Probability Theory I,Statistics & Operational Research,Jan-22,10
+12251,Computer Science II,Computational Mathematics,Sep-20,6
+12261,Classic Mechanics,Physics,Jan-23,10
+12301,Infinite Calculus III,Mathematical Analysis,Jan-21,5
+12302,Ordinary Differential Equations,Applied Mathematics,Jun-21,9
+12341,Numerical Analysis,Computational Mathematics,Jun-23,10
+12342,Mathematical Programming,Statistics & Operational Research,Jun-21,9
+12361,Meteorology,Physics,Jun-21,8
+12391,Microeconomic Theory I,Economics,Jan-24,10
+12392,Macroeconomic Theory I,Economics,Jan-24,9
+12401,Real Analysis,Mathematical Analysis,Jun-21,10
+12421,Abstract Algebra,Algebra & Geometry,Jan-21,8
+12439,Computational Algebra,Algebra & Geometry,Jun-22,6
+12442,Probability Theory II,Statistics & Operational Research,Jun-23,8
+12496,Ancient Greek Mathematics,Didactics of Mathematics,Jun-21,9
+12532,Number Theory,Algebra & Geometry,Sep-20,8
+12541,Mathematical Statistics,Statistics & Operational Research,Jan-22,10
+12552,Stochastic Models,Statistics & Operational Research,Jun-22,9
+12553,Actuarial Mathematics,Statistics & Operational Research,Jun-23,10
+12559,Game Theory,Statistics & Operational Research,Jan-23,9
+12634,Geometry II,Algebra & Geometry,Jan-24,5
+12651,Stochastic Processes,Statistics & Operational Research,Jan-22,9
+12654,Linear Models,Statistics & Operational Research,Jun-23,7
+12659,Linear & Non-Linear Programming,Statistics & Operational Research,Jan-22,7
+12701,Complex Analysis,Mathematical Analysis,Jun-22,6
+12753,Multivariate Data Analysis,Statistics & Operational Research,Jan-23,8
+12777,Sociology of Education,Didactics of Mathematics,Jun-22,8
+12859,Queueing Theory,Statistics & Operational Research,Jan-23,10
+12872,Theory of learning & teaching,Didactics of Mathematics,Jan-20,6
