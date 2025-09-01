@@ -1,5 +1,5 @@
 # My grades in each exam period during my BSc in Mathematics
-This is a simple dashboard that summarizes my performance in exams during my Bachelor studies in Mathematics ,of which I graduated with a GPA of **8.24** ,having successfully passed 36 courses (240 ECTS).
+This is a simple interactive dashboard that summarizes my performance in exams during my Bachelor studies in Mathematics ,of which I graduated with a GPA of **8.24** ,having successfully passed 36 courses (240 ECTS).
 
 I first enrolled in October 2019 and took my final exam in January 2024. (4,5 years - 9 semesters)
 
